@@ -28,10 +28,7 @@
 - [NaoHCF](#nao)
 - [vCore](#vcore)
 - [Experience](#xp)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [Socials](#socials)
 
 ## 🧐 About <a name = "about"></a>
 Hello! Im Ciro, 16 year old developer from Colombia. I usually program with java, but i also like using every type of language :).
